@@ -1,0 +1,6 @@
+com\madeeasy\repository\UserRepository.class
+com\madeeasy\service\impl\UserServiceImpl.class
+com\madeeasy\entity\User.class
+com\madeeasy\service\UserService.class
+com\madeeasy\controller\UserController.class
+com\madeeasy\SpringBootUserServiceApplication.class
